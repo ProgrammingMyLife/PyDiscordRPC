@@ -1,5 +1,5 @@
-// all rights to https://hentaihaven.dev/
-// github: https://github.com/tokenlogger/PyDiscordRPC/
+# all rights to https://hentaihaven.dev/
+# github: https://github.com/tokenlogger/PyDiscordRPC/
 import time
 from pypresence import Presence
 
